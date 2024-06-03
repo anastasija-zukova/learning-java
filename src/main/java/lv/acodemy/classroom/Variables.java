@@ -104,6 +104,12 @@ public class Variables {
 
         int reminderResult2 = 10 % 4; //(10 / 4 = 8) (10-8=2)
         System.out.println(reminderResult2);
-        
+
+
+        // operators (simple example)
+        int x = 10;
+        int y = 20;
+        int result = x + y;
+        System.out.println(result);
     }
 }
